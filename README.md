@@ -1,6 +1,6 @@
 Clone repo https://github.com/TapFuse/TiCons-CLI to `~/Projects/TapFuse/`
 ```shell
-cd ~/Projects/TapFuse/
+cd ~/Projects/TapFuse/TiCons-CLI
 npm install
 sudo npm link
 ```
