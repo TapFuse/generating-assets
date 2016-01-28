@@ -13,3 +13,10 @@ ticons icons icon.png -d ./output-icons -p ios,iphone,ipad,android --sdk-version
 ```
 ticons splashes splash.png -d ./output-splashes -p ios,iphone,ipad,android --sdk-version 4.0.0 -n
 ```
+
+Install homebrew
+http://brew.sh
+Install ImageMagic
+```
+brew install imagemagick
+```
